@@ -1,3 +1,10 @@
+branch ( master ) : https://github.com/AgustinParmaini/Arkademy-B15K2 
+------- branch master kurang nomor 6 ------
+
+branch ( agustinparmaini ) : https://github.com/AgustinParmaini/Arkademy-B15K2/tree/agustinparmaini
+------- branch agustinparmaini full jawaban 1-6 
+
+
 Nama : Agustin Parmaini
 
 Jawaban bootcamp arkademy-B15K2
@@ -17,6 +24,6 @@ soal 5 : menggunakan PHP untuk mencetak deret fibonaci
 soal 6 : pengecekkan http://localhost/6/arkademy-2/index.php
 masukkan file ke folder C:/xampp/localhost
 
-file:///C:/xampp/htdocs/6/capture/Capture%20arkademy%20bootcamp.PNG
+
 
 
