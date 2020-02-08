@@ -17,9 +17,7 @@ soal 5 : menggunakan PHP untuk mencetak deret fibonaci
 soal 6 : pengecekkan http://localhost/6/arkademy-2/index.php
 masukkan file ke folder C:/xampp/localhost
 
-C:\xampp\htdocs\6\capture
-
-
+file:///C:/xampp/htdocs/6/capture/Capture%20arkademy%20bootcamp.PNG
 
 
 
