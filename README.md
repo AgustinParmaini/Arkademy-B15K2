@@ -14,5 +14,12 @@ soal 4 : menggunakan PHP untuk mencari huruf pengganti pada kata atau kalimat
 
 soal 5 : menggunakan PHP untuk mencetak deret fibonaci
 
-soal 6 : pengecekkan 
+soal 6 : pengecekkan http://localhost/6/arkademy-2/index.php
+masukkan file ke folder C:/xampp/localhost
+
+C:\xampp\htdocs\6\capture
+
+
+
+
 
