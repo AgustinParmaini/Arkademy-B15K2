@@ -20,4 +20,3 @@ masukkan file ke folder C:/xampp/localhost
 file:///C:/xampp/htdocs/6/capture/Capture%20arkademy%20bootcamp.PNG
 
 
-
